@@ -4,7 +4,7 @@ int main()
 {
 	float diameter = 15.0;
 	float r = diameter/2;
-	float volume = (1,3) * 3.14 * (r*r*r);
+	float volume = (4.0 / 3.0) * 3.14 * (r*r*r);
 	
 	printf("Menghitung volume bola\n");
 	printf("Rumus Menghitung volume bola: 4/3 x 3,14 x r^3\n");
